@@ -14,6 +14,8 @@ Scaling does **not** mean maximising growth, automation, engagement, extraction 
 
 Kastel is therefore a **non-extractive adaptive scaling system**. It does not treat the business, its customers, its data or its niche as quantities to be mined. It treats them as part of a coupled operating ecology that must remain legible, reciprocal, governable and viable.
 
+In Trident-G terms, Kastel treats enterprise scaling as an allostatic problem. The business should remain inside a viable operating band as load, uncertainty, opportunity, demand, tooling and market context change. State–niche fit is the external coupling test for that band: action should generate interpretable feedback from the real niche rather than merely increasing activity.
+
 The minimum viable quality of Kastel Stack is not:
 
 ```text
@@ -690,6 +692,8 @@ The operator learns through better judgement.
 ## 9. State–niche fit
 
 State–niche fit is the core Kastel diagnostic.
+
+It is the operational niche-fit side of Kastel's allostatic doctrine: the business should only act when its internal state and the external context are jointly fit enough for action to teach.
 
 A business is **in state–niche fit** when:
 
