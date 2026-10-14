@@ -1473,6 +1473,27 @@ gate status
 
 ---
 
+## 18A. Open-world sensing and situational orientation (proposed doctrine clarification)
+
+Kastel's **SENSE → LOCATE** is not limited to instrumenting an existing business plan or watching market-language trends. An adaptive independent enterprise must **maintain an evolving, revisable orientation to the world around it**, including its customers, partners, capacities, operating environment, new research and technology, changing policies, physical/institutional constraints, unexpected risks and newly available opportunities. The landscape may change **before** the business experiences a measurable decline or runs an intervention.
+
+Two kinds of information acquisition belong together:
+
+- **Background environmental discovery:** a low-cost, proportionately resourced and, where appropriate, human-led scan for changed niche conditions, external research, new opportunities and contradictions that the present business model did not anticipate.
+- **Decision-specific evidence gathering:** targeted observations or approved probes that discriminate among rival explanations, test applicability or inform a reviewable proposed action.
+
+**SENSE** collects/retrieves source-scoped information from operations and the niche. **LOCATE / ORIENT** interprets the signals provisionally against existing model expectations, agent/niche/coupling state, horizon, source coverage and blind spots. Keep observed evidence separate from reports, weak signals, trend hypotheses, scenarios and opportunities not yet qualified.
+
+**Perceptual openness is not the same as a strategic pivot.** A business can operate productively or use BANKED rules while looking outwards for unexpected opportunities. Retrieval of previously banked knowledge is **RECALL**; external research/discovery is **SENSE**; bounded new strategy search follows the existing OPEN/Recall/approval gates. The `REOPENING` trajectory and the Action/Clarify intents remain controlled by their established decision and viability conditions.
+
+The **Surface Intelligence** lane below is one useful specialisation: changes in buyer language, search terms and market framing. It is **not the complete sensing layer**. Other valid signals include actual changes in production, ecology, law, scientific evidence, infrastructure, relationships and unanticipated local affordances. The value of a new idea is established through relevant evidence and prospective use, not popularity, novelty, number of feeds or an LLM's persuasive summary.
+
+Practical acceptance would compare simple KPI monitoring, fixed-topic sensing and broader bounded discovery under similar source/compute/owner-attention budgets, measuring useful missed changes, false positives, actual decision benefit, viable outcomes and independence from vendors. Do not install uncontrolled background collection, paid services, surveillance or action loops by implication. The initial Kastel Light Node remains usable with manual observation and weekly review.
+
+**Status:** this text is a **proposed doctrinal clarification on a review branch** and does not alter the current running application, canonical release requirements or permissions. Joint-criticality mechanisms remain separate scientific hypotheses, not consequences inferred from a lively sensor stream.
+
+---
+
 ## 19. Surface intelligence and trend wrappers
 
 Kastel Stack includes a **surface intelligence** layer.
