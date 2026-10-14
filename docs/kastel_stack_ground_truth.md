@@ -1475,20 +1475,29 @@ gate status
 
 ## 18A. Open-world sensing and situational orientation (proposed doctrine clarification)
 
-Kastel's **SENSE → LOCATE** is not limited to instrumenting an existing business plan or watching market-language trends. An adaptive independent enterprise must **maintain an evolving, revisable orientation to the world around it**, including its customers, partners, capacities, operating environment, new research and technology, changing policies, physical/institutional constraints, unexpected risks and newly available opportunities. The landscape may change **before** the business experiences a measurable decline or runs an intervention.
+Kastel's **SENSE → LOCATE** is not limited to instrumenting an existing business plan or watching market-language trends. An adaptive independent enterprise should maintain a **revisable, proportionately scoped orientation** to its relevant operating environment. Its KSSM, eight business cycles and approved intervention domains are mostly defined in advance, although customer, supplier, partner and market conditions can change independently of its actions. **Wider** research, technological or market-horizon discovery is valuable when justified, but need not be a continuous task for every small business. The landscape may change **before** the business experiences a measurable decline or runs an intervention.
 
-Two kinds of information acquisition belong together:
+**Sensing breadth should match the scope of adaptation:**
 
-- **Background environmental discovery:** a low-cost, proportionately resourced and, where appropriate, human-led scan for changed niche conditions, external research, new opportunities and contradictions that the present business model did not anticipate.
-- **Decision-specific evidence gathering:** targeted observations or approved probes that discriminate among rival explanations, test applicability or inform a reviewable proposed action.
+| Scope | Routine Kastel small-business rule | Example |
+| --- | --- | --- |
+| **O — Operational** | Core, regular sensing within the established business model, cycles and source-of-truth evidence | Orders, cash reserves, task completion, conversion, service quality |
+| **N — Niche / coupling** | Core but targeted sensing of **relevant** changed customer, partner, supplier and environmental conditions | Altered buyer objections, delayed supplier, partner behaviour, material regulatory change |
+| **S — Strategic / horizon** | **Optional**, owner-scoped, periodic or triggered by credible material developments; bounded by time, cost and source quality | Unfamiliar customer niche, new research, technology or business-model opportunities |
+
+These scopes use **one reusable G-Loop grammar at different horizons**, not a compulsory second engine. The faster operating loop improves decisions within the existing model; a slower, owner-reviewed strategic loop can ask whether the model, niche or intervention repertoire needs revision. A fixed monthly horizon review is an **illustration**, not a mandatory schedule. An owner may suspend S while preserving essential O/N sensing.
+
+- **Routine monitoring:** current operational/source-of-truth evidence, commitments, resources and outcomes.
+- **Decision-specific niche/enquiry:** targeted observations or approved probes that discriminate among rival explanations, test applicability or inform a reviewable action.
+- **Strategic background discovery:** optional, low-cost or human-led investigation of genuinely new niches, research and opportunities, triggered by a defined review or material external change.
 
 **SENSE** collects/retrieves source-scoped information from operations and the niche. **LOCATE / ORIENT** interprets the signals provisionally against existing model expectations, agent/niche/coupling state, horizon, source coverage and blind spots. Keep observed evidence separate from reports, weak signals, trend hypotheses, scenarios and opportunities not yet qualified.
 
-**Perceptual openness is not the same as a strategic pivot.** A business can operate productively or use BANKED rules while looking outwards for unexpected opportunities. Retrieval of previously banked knowledge is **RECALL**; external research/discovery is **SENSE**; bounded new strategy search follows the existing OPEN/Recall/approval gates. The `REOPENING` trajectory and the Action/Clarify intents remain controlled by their established decision and viability conditions.
+**Perceptual openness is not the same as a strategic pivot—or a compulsory always-on horizon scan.** A business can operate productively or use BANKED rules while retaining the capability to notice relevant changes; broad discovery can remain dormant unless warranted. Retrieval of previously banked knowledge is **RECALL**; external research/discovery is **SENSE**; bounded new strategy search follows the existing OPEN/Recall/approval gates. The `REOPENING` trajectory and the Action/Clarify intents remain controlled by their established decision and viability conditions.
 
 The **Surface Intelligence** lane below is one useful specialisation: changes in buyer language, search terms and market framing. It is **not the complete sensing layer**. Other valid signals include actual changes in production, ecology, law, scientific evidence, infrastructure, relationships and unanticipated local affordances. The value of a new idea is established through relevant evidence and prospective use, not popularity, novelty, number of feeds or an LLM's persuasive summary.
 
-Practical acceptance would compare simple KPI monitoring, fixed-topic sensing and broader bounded discovery under similar source/compute/owner-attention budgets, measuring useful missed changes, false positives, actual decision benefit, viable outcomes and independence from vendors. Do not install uncontrolled background collection, paid services, surveillance or action loops by implication. The initial Kastel Light Node remains usable with manual observation and weekly review.
+Practical acceptance should first show reliable **O/N** decision quality and viable outcomes against simple operational baselines, then evaluate the **incremental** benefit (or lack of benefit) of adding optional **S** discovery under similar source/compute/owner-attention budgets. Measure missed material changes, false positives, actual decision benefit and independence from vendors. Do not install uncontrolled background collection, paid services, surveillance or action loops by implication. The initial Kastel Light Node remains usable with **manual operational/niche observation, its existing weekly review and no broad external scout**.
 
 **Status:** this text is a **proposed doctrinal clarification on a review branch** and does not alter the current running application, canonical release requirements or permissions. Joint-criticality mechanisms remain separate scientific hypotheses, not consequences inferred from a lively sensor stream.
 
